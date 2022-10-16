@@ -4,13 +4,6 @@
 	Language = C
 */
 
-
-/*
-	Developer Name = Shelake Kalyani
-	Program = 
-	Language = C
-*/
-
 #include <stdio.h>
 int main()
 {
