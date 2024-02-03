@@ -1,2 +1,2 @@
 # C-Programs
-Here, I done some programs in C language.
+I have developed several programs in the C programming language.
